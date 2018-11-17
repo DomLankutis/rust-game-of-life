@@ -1,0 +1,8 @@
+[package]
+name = "rust-game-of-life"
+version = "0.1.0"
+authors = ["Domantas Lankutis <domantas.lankutis@ada.ac.uk>"]
+
+[dependencies]
+rand = "0.6"
+colored = "1.6"
